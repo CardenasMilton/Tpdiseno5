@@ -97,3 +97,4 @@ El número de póliza tiene el formato `POL-AAAA-NNNNNN`.
 - Se usaron los componentes de Basecoat que existen (botón, campo de formulario, card, badge y alert). El stepper se armó con utilidades de Tailwind y las cards de plan y las opciones de selección con unas pocas reglas propias en `css/tokens.css`.
 
 ## Capturas
+- Cada captura fue nombrada con el respectivo nombre del dispositivo (Iphone 12 Pro (el cual se adecuaba a las dimensiones solicitadas) y Desktop) y demostrando que paso se fue realizando en la misma
